@@ -1,0 +1,13 @@
+﻿  Wyjatki.cpp
+c:\users\ash\downloads\tibijka\biuropodróży (1)\biuropodróży\biuropodróży\wyjatki.cpp(6): warning C4018: '<': signed/unsigned mismatch
+c:\users\ash\downloads\tibijka\biuropodróży (1)\biuropodróży\biuropodróży\wyjatki.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  VIP.cpp
+  Student.cpp
+  Plik.cpp
+  main.cpp
+  Klient.cpp
+  Generating Code...
+c:\users\ash\downloads\tibijka\biuropodróży (1)\biuropodróży\biuropodróży\student.cpp(60): warning C4715: 'Student::getKwota': not all control paths return a value
+c:\users\ash\downloads\tibijka\biuropodróży (1)\biuropodróży\biuropodróży\vip.cpp(44): warning C4715: 'VIP::getKwota': not all control paths return a value
+  BiuroPodróży.vcxproj -> C:\Users\Ash\Downloads\tibijka\BiuroPodróży (1)\BiuroPodróży\Debug\BiuroPodróży.exe
+  BiuroPodróży.vcxproj -> C:\Users\Ash\Downloads\tibijka\BiuroPodróży (1)\BiuroPodróży\Debug\BiuroPodróży.pdb (Full PDB)
